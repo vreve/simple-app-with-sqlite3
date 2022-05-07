@@ -1,4 +1,4 @@
-import database
+import database as database
 
 MENU_PROMPT = """-- Coffe Bean App --
 
